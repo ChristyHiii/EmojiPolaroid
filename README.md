@@ -122,14 +122,14 @@ This project incorporates the following open-source resources:
 
 ---
 
-## ⚖️ License
+## 📜 License
 
-This project is released under the **MIT License**.
-Feel free to fork, remix, or exhibit the project — just credit the original author.
+MIT License © 2025 ChrisTing Huang. Feel free to use for learning, research, and creative projects. Contributions and forks are welcome! — just credit the original author🍬
+
+🌟 If you enjoy this project, please ⭐ star the repository and share it.
 
 ---
 
-Would you like me to help you design a **short project description + tagline** (the one-sentence blurb shown at the top of your GitHub repo page, under the title)?
-That line is important for visibility — e.g.
+## ✨ Author
 
-> “Real-time AI Polaroid that swaps faces, emotions, and reality.”
+**ChrisTing Huang** – [GitHub](https://github.com/ChristyHiii) | [Email](candybrownhuang@gmail.com)
