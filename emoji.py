@@ -106,7 +106,6 @@ def mouse_callback(event, x, y, flags, param):      # right click to toggle pola
         show_polaroids = not show_polaroids
         print("Show polaroids:", show_polaroids)
 
-
 while True:
     ret, img = camera.read()
     if not ret:
