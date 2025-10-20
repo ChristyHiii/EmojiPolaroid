@@ -1,4 +1,4 @@
-# 📸 **Face Polaroid — The Dislocated Emoji Camera**
+# 📸 **FaceMix Polaroid — The Dislocated Emoji Camera**
 
 > A playful fusion of **facial expression recognition** and **artistic visual design**.
 > Watch your emotions transform into a quirky Polaroid collage — in real time.
@@ -7,7 +7,7 @@
 
 ## 📖 Overview
 
-**Face Polaroid** is an interactive Python project that blends **computer vision** with **artistic expression**.
+**FaceMix Polaroid** is an interactive Python project that blends **computer vision** with **artistic expression**.
 Using a webcam, it detects and classifies your facial expression, displaying the corresponding **emoji** floating above your head.
 
 At the same time, it extracts your **facial features** — eyes, nose, and mouth — and reattaches them as **mini Polaroid photos**, slightly misplaced on your face for a surreal yet humorous effect.
@@ -51,7 +51,7 @@ python emoji.py
 
 ---
 
-## 🪄 Acknowledgements
+## 🪄 Acknowledgement
 
 This project incorporates the following open-source resources:
 
@@ -65,7 +65,7 @@ Author: Rondinelli Morais
 
 MIT License © 2025 ChrisTing Huang. Feel free to use for learning, research, and creative projects. Contributions and forks are welcome! — just credit the original author🍬
 
-🌟 If you enjoy this project, please ⭐ star the repository and share it.
+🌟 If you enjoy this project, please ⭐ star the repository and share it — hope it can bring u joyful 🥳
 
 ---
 
