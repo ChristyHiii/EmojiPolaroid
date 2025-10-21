@@ -6,7 +6,8 @@ import random
 
 # haar cascade classifiers
 face_detection = cv2.CascadeClassifier('haar_cascade_face_detection.xml')
-eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
+# eye_cascade = cv2.CascadeClassifier('haarcascade_eye.xml')
+eye_cascade_glass = cv2.CascadeClassifier('haarcascade_eye_tree_eyeglasses.xml')
 nose_cascade = cv2.CascadeClassifier('haarcascade_mcs_nose.xml')
 mouth_cascade = cv2.CascadeClassifier('haarcascade_mcs_mouth.xml')
 
@@ -129,7 +130,7 @@ while True:
         roi_color = img[y:y + h, x:x + w]
         left_eye_img, right_eye_img, nose_img, mouth_img = None, None, None, None
 
-        eyes = eye_cascade.detectMultiScale(roi_gray, 1.2, 10, minSize=(30, 30))
+        eyes = eye_cascade_glass.detectMultiScale(roi_gray, 1.2, 10, minSize=(30, 30))
         for (ex, ey, ew, eh) in eyes[:2]:
             eye_center_x = ex + ew / 2
             if eye_center_x < w / 2:
