@@ -47,7 +47,9 @@ python emoji.py
 
 📷 
 
-
+![polaroid_20251021_093331](https://github.com/user-attachments/assets/adae5ef6-31c1-4333-8a4e-84f3cfb0d19a) 
+![polaroid_20251021_122855](https://github.com/user-attachments/assets/f65eef9b-29cf-41a0-9f03-6923fe19802e)
+![polaroid_20251021_143619](https://github.com/user-attachments/assets/1dfee6e2-eb65-4a66-a7db-6b83a7856a2d)
 
 ---
 
